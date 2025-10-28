@@ -1,0 +1,14 @@
+[core]
+	autocrlf = true
+[user]
+	name = seil7327
+	email = seil7327@bht-berlin.de
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[credential "helperselector"]
+	selected = manager
+[credential]
+	helper = store
